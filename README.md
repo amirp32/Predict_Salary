@@ -7,12 +7,19 @@ The Salary Estimate Prediction Project is a data analysis and machine learning p
 #Table of Contents
 
 Objective
+
 Data Preparation
+
 Data Cleaning
+
 Exploratory Data Analysis (EDA)
+
 Feature Engineering
+
 Modeling
+
 Prediction
+
 Model Saving
 
 #Objective
